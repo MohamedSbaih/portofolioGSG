@@ -522,3 +522,18 @@ h3.my-profession {
     text-align: justify;
     color: var(--text-black-700);
 }
+/*** Linker ***/
+.social-links a {
+    font-size: 18px;
+    display: inline-block;
+    background: #212431;
+    line-height: 1;
+    padding: 5px 0;
+    margin-right: 4px;
+    margin-top: 6rem;
+    border-radius: 50%;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    color: #f2f2fc;
+  }
